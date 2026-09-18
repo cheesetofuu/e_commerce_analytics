@@ -1,7 +1,6 @@
 # E-Commerce — SQL analytics case study
 
-A stakeholder-driven analysis of a multi-market B2C e-commerce dataset
-(`e_commerce` schema on [XómDataset](https://dataset.xomdata.com/datasets/schema/e_commerce), SQL Server).
+A stakeholder-driven analysis of a multi-market B2C e-commerce dataset on a SQL Server).
 The dataset ships with 15 "ad-hoc requests" ordered by SQL difficulty; this repo reorganises them
 by the **business function that asked**, adds the data-quality gate and the extra queries needed to
 actually answer the company's four stated pain points, and delivers results and a written
