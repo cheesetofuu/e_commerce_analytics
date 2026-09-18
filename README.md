@@ -1,4 +1,4 @@
-# Xóm E-Com — SQL analytics case study
+# E-Commerce — SQL analytics case study
 
 A stakeholder-driven analysis of a multi-market B2C e-commerce dataset
 (`e_commerce` schema on [XómDataset](https://dataset.xomdata.com/datasets/schema/e_commerce), SQL Server).
